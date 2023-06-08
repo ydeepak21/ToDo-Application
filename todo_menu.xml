@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_todo"
+        android:title="Add Task" />
+    <item
+        android:id="@+id/delete_todo"
+        android:title="Delete All Todo" />
+
+    <item
+        android:id="@+id/delete_complete_todo"
+        android:title="Delete All Completed" />
+    <item
+        android:id="@+id/Category_Todo"
+        android:title="Categories" />
+
+    <item
+        android:id="@+id/user_logout"
+        android:title="Logout" />
+</menu>
